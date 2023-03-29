@@ -5,3 +5,5 @@ To clone this repost use the given command :
 ```
 git clone https://github.com/soumyajit0/PCC-CS391.git
 ```
+
+After executing the above given line in the terminal, the whole repo will be downloaded automatically to the current file hierarchy.
